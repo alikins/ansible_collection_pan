@@ -3,7 +3,7 @@ name: "pan"
 description: "Fork of Ansible modules for Palo Alto Networks NGFWs"
 authors:
   - "Ivan Bojer <>"
-version: "0.1.3"
+version: "0.1.4"
 license:
   - "BSD-3-Clause"
 readme: "README.md"
