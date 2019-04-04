@@ -2,7 +2,7 @@ namespace: "ansible_collection"
 name: "pan"
 authors:
   - "Ivan Bojer <>"
-version: "0.1.2"
+version: "0.1.3"
 license:
   - "BSD-3-Clause"
 tags:
