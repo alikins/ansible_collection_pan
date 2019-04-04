@@ -2,8 +2,9 @@ namespace: "ansible_collection"
 name: "pan"
 authors:
   - "Ivan Bojer <>"
-version: "0.1.0"
-license: "BSD-3-Clause"
+version: "0.1.1"
+license:
+  - "BSD-3-Clause"
 tags:
   - certified
   - network
